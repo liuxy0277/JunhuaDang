@@ -1,12 +1,14 @@
 ---
-title: 'An example conference paper'
+年份: '2025'
+题目: 1.Dang., J.* & Xiao, S.* (2025). A Meta-Analytic Reassessment of the Vicious Cycle of Psychopathology and Stressful Life Events. Psychological Bulletin, Accepted (2023IF=17.3, JCR-Q1)
+
+
+
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
-  - admin
-  - Robert Ford
+
 
 # Author notes (optional)
 author_notes:
