@@ -22,7 +22,7 @@ highlight_name: true
 # Role/position/tagline
 role: 教授、博士生导师
 
-# Organizations/Affiliations to display in Biography blox
+# 电子邮箱/单位/研究方向/受教育经历/工作经历 to display in Biography blox
 电子邮箱:
   - name: dangjunhua@gmail.com
     url: https://openai.com/
